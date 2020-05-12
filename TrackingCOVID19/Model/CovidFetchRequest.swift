@@ -17,7 +17,7 @@ class CovidFetchRequest: ObservableObject {
     
     let headers: HTTPHeaders = [
         "x-rapidapi-host": "covid-19-data.p.rapidapi.com",
-        "x-rapidapi-key": "ca0af7e4b2msh75101f2e0e661abp1c3796jsn4597bee1fdcd"
+        "x-rapidapi-key": 
     ]
     
     init() {
