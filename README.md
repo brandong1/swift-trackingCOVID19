@@ -8,3 +8,6 @@ There is also an interactive map that displays details about each country.
 
 # Be advised
 The API was too expensive, so this project is on hold until I identify a more economical way to obtain the data.
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/36804960/93006561-eea58080-f51a-11ea-8b71-6205d133878b.png)
